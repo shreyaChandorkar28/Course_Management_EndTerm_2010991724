@@ -1,0 +1,18 @@
+{
+  "data": [
+    {
+      "firstname": "Albus",
+      "lastname": "Dumbledore",
+      "email": "Albus@hogwarts.com",
+      "username": "AD",
+      "id": 13
+    },
+    {
+      "firstname": "Harry ",
+      "lastname": "Potter",
+      "email": "harry@hogwarts.com",
+      "username": "HP",
+      "id": 14
+    }
+  ]
+}

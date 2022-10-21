@@ -1,0 +1,13 @@
+ST4 
+Project: - Suppose you have a customer who is a running a company MyWorld, he wants to build a web application in Reactjs, with the  given below features.
+1. MyWorld logo:- You can create this from online logo maker
+2. When you click the logo, the Home page should display.Logo should be in the left corner of  home page
+3.Home page:-  Copy dummy text from another sites
+4.About page:- Copy dummy text from another sites
+5. Contact us page:- You have to display a map in this page
+6.A Registration form :- Name,Email,Mobile,Class and submit button
+8. Login page:- Email,Password and submit
+9. Signup page:- User name, Email ,Password and submit
+A:- In this project you have to apply routing and bootstrap
+B:- In this project you have to fetch data from an api /Json file and display it in a table[On this one i deliver a lecture and show you how to do this]
+Don’t make any mess in the group, we can discuss in the class if you have any issues

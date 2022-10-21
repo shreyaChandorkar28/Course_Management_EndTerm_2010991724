@@ -1,0 +1,22 @@
+.main-footer {
+    color: white;
+    background: #FF5F6D;  /* fallback for old browsers */
+background: -webkit-linear-gradient(to right, #FFC371, #FF5F6D);  /* Chrome 10-25, Safari 5.1-6 */
+background: linear-gradient(to right, #FFC371, #FF5F6D); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+
+    padding-top: 3em;
+    position: relative;
+    bottom: 0;
+    width: 100%;
+  }
+  /* .Link{
+    color: white;
+    text-decoration: none;
+  } */
+  .col{
+    text-decoration: none;
+    color: white;
+  }
+  a{
+    text-decoration: none;
+  }
